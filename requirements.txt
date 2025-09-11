@@ -3,3 +3,9 @@ transformers
 datasets
 python-socketio<5.0
 python-engineio==3.*
+sounddevice
+torch
+rapidfuzz
+dotenv
+Levenshtein
+flask
