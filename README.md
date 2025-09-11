@@ -198,15 +198,13 @@ black . && isort .
 ## 🔮 Future Roadmap
 
 ### Immediate (gpt-oss Integration)
-- [ ] Contextual understanding via gpt-oss-20b
-- [ ] Intelligent error correction with reasoning models
-- [ ] Custom ChatGPTs for personalized religious conversations
-
-### Advanced Features
+- [ ] Contextual verse identification via gpt-oss-20b
 - [ ] Multi-language translation (10+ languages)
 - [ ] Mobile app integration
 - [ ] Federated learning across global deployments
 - [ ] Edge optimization for limited compute environments
+- [ ] Custom ChatGPTs for personalized religious conversations
+
 
 ## 🏆 Recognition
 
@@ -233,6 +231,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for the global Sikh community**
+**Built with ❤️ and AI**
 
 *Seva (selfless service) through technology*
