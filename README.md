@@ -41,7 +41,7 @@ Younger generations attending Gurdwara (Sikh temple) services understand spoken 
 
 | Component | Technology | Purpose |
 |-----------|------------|---------|
-| **ASR Engine** | Fine-tuned Wav2Vec2 | Gurmukhi speech recognition |
+| **ASR Engine** | Fine-tuned SOTA ASR Models on Religious domain | Gurmukhi speech recognition |
 | **Verse Matching** | Ensemble algorithms | Robust real-time alignment |
 | **Desktop Control** | OCR + Socket.IO | Autonomous SikhiToTheMax integration |
 | **Navigation** | Anchor/Paath modes | Smart positioning & drift detection |
