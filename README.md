@@ -220,10 +220,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Sikh Community**: For inspiration and cultural guidance
 - **OpenAI**: For the Open Model Hackathon opportunity
+- **NVIDIA**: For GPU's for ASR model fine tuning
 - **HuggingFace**: For model hosting and datasets platform
 - **Khalis Foundation**: For SikhiToTheMax desktop application
+- **Sikh Community**: For inspiration and cultural guidance
 
 ## 📞 Contact
 
