@@ -17,7 +17,7 @@ Autonomous AI agent that listens to live Sikh prayer services and autonomously d
 ## 🎯 Problem Statement
 
 Younger generations attending Gurdwara (Sikh temple) services understand spoken Punjabi but struggle with:
-- Reading Gurmukhi script
+- Reading Punjabi text in Gurmukhi script
 - Understanding authentic spiritual meanings
 - Active participation in 2-3 hour prayer services
 
