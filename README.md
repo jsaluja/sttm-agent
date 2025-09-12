@@ -5,7 +5,14 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-> **🏆 OpenAI Open Model Hackathon 2025 - "For Humanity" Category**
+> **🏆 OpenAI Open Model Hackathon 2025
+> Categories
+- For Humanity
+- Best Local Agent
+- Most Useful Fine-Tune
+- Wildcard
+
+For Humanity
 
 AI-powered system that listens to live Sikh prayer services and autonomously displays synchronized Punjabi verses with English meanings, creating immersive spiritual experiences for 30M+ global devotees.
 
