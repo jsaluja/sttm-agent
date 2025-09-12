@@ -171,11 +171,6 @@ sttm-agent/
 
 [🎥 **Watch Demo Video**](https://www.youtube.com/watch?v=iLqkGfZPL4c)
 
-### Screenshots
-- Live prayer service with synchronized display
-- Real-time verse matching in action
-- Autonomous desktop control interface
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
