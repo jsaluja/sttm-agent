@@ -159,6 +159,7 @@ sttm-agent/
 ├── sttm_socketio.py           # Socket.IO communication
 ├── verse_dataset.py           # Verse-to-shabad mapping
 ├── build_index.py             # Local database builder
+├── fb_mms_1b_fine_tuning.py   # Fine tune ASR model
 ├── local_banidb/              # Verse database
 │   ├── line_store.json        # Verse content
 │   └── inverted.json          # Search index
