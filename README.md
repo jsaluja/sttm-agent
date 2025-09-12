@@ -229,9 +229,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name](mailto:your.email@example.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/sttm-agent/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/sttm-agent/discussions)
+- **Project Lead**: [Jaspal Singh Saluja](jaspal.saluja@gmail.com)
+- **Issues**: [GitHub Issues](https://github.com/jsaluja/sttm-agent/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/jsaluja/sttm-agent/discussions)
 
 ---
 
