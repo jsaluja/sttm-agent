@@ -180,16 +180,9 @@ sttm-agent/
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-### Development Setup
+### ASR Model fine tuning (Optional)
 ```bash
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run tests
-python -m pytest tests/
-
-# Format code
-black . && isort .
+python3 fb_mms_1b_fine_tuning_.py
 ```
 
 ## 📈 Impact
