@@ -1,6 +1,6 @@
 # Seva Agent: Real-Time Autonomous Prayer Assistant
 
-[![OpenAI Hackathon](https://img.shields.io/badge/OpenAI-Hackathon%202025-blue)](https://devpost.com)
+[![OpenAI Hackathon](https://img.shields.io/badge/OpenAI-Hackathon%202025-blue)](https://openai.devpost.com)
 [![Python](https://img.shields.io/badge/Python-3.8+-green)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
