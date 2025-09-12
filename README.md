@@ -168,7 +168,7 @@ sttm-agent/
 
 ## 🎬 Demo
 
-[🎥 **Watch Demo Video**](https://your-demo-link.com) *(Coming Soon)*
+[🎥 **Watch Demo Video**](https://www.youtube.com/watch?v=iLqkGfZPL4c)
 
 ### Screenshots
 - Live prayer service with synchronized display
