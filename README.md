@@ -97,9 +97,8 @@ python sttm_ui_controller.py
 ## 📊 Technical Details
 
 ### ASR Pipeline
-- **Base Model**: `facebook/wav2vec2-large-xlsr-53`
 - **Fine-tuning**: 60+ hours curated Gurbani dataset, 10+ epochs
-- **Custom Tokenizer**: Gurmukhi Unicode (U+0A00-U+0A7F)
+- **Custom Tokenizer and Vocabulary**: Gurmukhi Unicode (U+0A00-U+0A7F)
 - **Real-time Processing**: 16kHz, 2-second sliding windows, 1-second overlap
 
 ### Ensemble Matching
@@ -113,9 +112,9 @@ def ensemble_score(asr_text, ground_truth):
 ```
 
 ### Performance Metrics
-- **Latency**: <500ms verse identification
+- **Latency**: <300ms for ASR on chunk, <100ms for verse identification
 - **Accuracy**: 99%+ on domain test set
-- **Throughput**: Real-time processing with GPU acceleration
+- **Throughput**: Near Real-time Alignment
 
 ## 🎯 Key Features
 
