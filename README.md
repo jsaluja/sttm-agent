@@ -12,9 +12,7 @@
 - Most Useful Fine-Tune
 - Wildcard
 
-For Humanity
-
-AI-powered system that listens to live Sikh prayer services and autonomously displays synchronized Punjabi verses with English meanings, creating immersive spiritual experiences for 30M+ global devotees.
+Autonomous AI agent that listens to live Sikh prayer services and autonomously displays synchronized Punjabi verses with English meanings, creating immersive spiritual experiences for 30M+ global devotees.
 
 ## 🎯 Problem Statement
 
