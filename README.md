@@ -203,12 +203,10 @@ black . && isort .
 
 ## 🔮 Future Roadmap
 
-### Immediate (gpt-oss Integration)
-- [ ] Contextual verse identification via gpt-oss-20b
-- [ ] Multi-language translation (10+ languages)
 - [ ] Mobile app integration
-- [ ] Federated learning across global deployments
 - [ ] Edge optimization for limited compute environments
+- [ ] Federated learning across global deployments
+- [ ] Multi-language translation (10+ languages)
 - [ ] Custom ChatGPTs for personalized religious conversations
 
 
