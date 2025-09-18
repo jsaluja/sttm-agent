@@ -196,13 +196,6 @@ python3 fb_mms_1b_fine_tuning_.py
 - [ ] Multi-language translation (10+ languages)
 - [ ] Custom ChatGPTs for personalized religious conversations
 
-
-## 🏆 Recognition
-
-- **OpenAI Open Model Hackathon 2025** - "For Humanity" Category Submission
-- **First-of-its-kind** autonomous Gurbani recognition system
-- **Production Deployment** in multiple Gurdwaras worldwide
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
